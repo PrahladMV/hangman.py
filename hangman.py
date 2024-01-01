@@ -89,7 +89,7 @@ def display_hangman(attempts):
     return hangman_graphics[attempts]
 
 def hangman():
-    print("Welcome to Hangman!")
+    print("Welcome to Prahlad's Hangman Game!")
 
     while True:
         secret_word = choose_word()
